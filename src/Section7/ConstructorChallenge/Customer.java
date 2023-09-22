@@ -1,3 +1,5 @@
+package Section7.ConstructorChallenge;
+
 public class Customer {
 
     private String name;
