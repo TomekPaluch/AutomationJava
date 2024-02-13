@@ -5,9 +5,9 @@ public class AppendTwoGivenStrings {
 
 
 
-        String str1 = "food";
-        String str2 = "door";
-        // Display the given strings and the concatenated string using the conCat method
+        String str1 = "motor";
+        String str2 = "room";
+
         System.out.println("The given strings are: " + str1 + " and " + str2);
         System.out.println("The string after concatenation is: " + conCat(str1, str2));
     }
